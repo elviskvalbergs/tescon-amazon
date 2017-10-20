@@ -1,0 +1,1 @@
+format	1	44	1	0	0	0	0	/	codepage	UTF-8	cclass	1C	1C	EPROG	1STYR	First year	AGE	ABSI	absi	LSRC	ACC	MS Access	EPROG	ACCBUR	Accounting bureau	INDSTRY	ACCBURCL	Accounting bureau client	HWPROD

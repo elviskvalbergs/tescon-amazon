@@ -1,0 +1,63 @@
+format
+1	46	1	0	0	32	0	/
+
+codepage	UTF-8
+
+TRVc1
+110002	10/01/2007	Darba alga decembrī	30/12/2006	DZAN	134649.45	134649.45	0.00		0	70	0	0	0			0.00	07/10/2007				CRCRI,N6RI,URI
+1	0	72111	C,CRCRI,N6RI,URI	54380.19							Strādnieku algas, piemaksas	LVL		0			0									0	0
+1	0	72115	C,CRCRI,N6RI,URI	1195.00							Strādnieku materiālie pabalsti	LVL		0			0									0	0
+1	0	72190	C,CRCRI,N6RI,URI	1260.17							Strādnieku slimības nauda	LVL		0			0									0	0
+1	0	72221	C,CRCRI,N6RI,URI	3242.20							Administrācijas algas,piemaksas	LVL		0			0									0	0
+1	0	72221	C,CRCRI,N6RI,URI	140.00							Administrācijas algas,piemaksas	LVL		0			0									0	0
+1	0	78230	C,CRCRI,N6RI,URI	248.72							Invaliditātes pabalsts, kaitējumu atlīdzība	LVL		0			0									0	0
+1	0	56110	C,CRCRI,N6RI,URI		60466.28						Norēķini par darba algu	LVL		0			0									0	0
+1	0	57410	C,CRCRI,N6RI,URI		12502.49						Norēķini par iedzīvotāju ienākuma nodokli	LVL		0			0									0	0
+1	0	57310	C,CRCRI,N6RI,URI		5235.80						Norēķini par sociālo nodokli	LVL		0			0									0	0
+1	0	56220	C,CRCRI,N6RI,URI		90.79						Alimenti	LVL		0			0									0	0
+1	0	56310	C,CRCRI,N6RI,URI		40134.31						Ieturējumi bankām	LVL		0			0									0	0
+1	0	56320	C,CRCRI,N6RI,URI		216.84						Ieturējumi arodbiedrībām	LVL		0			0									0	0
+1	0	56310	C,CRCRI,N6RI,URI		248.72						Ieturējumi bankām	LVL		0			0									0	0
+1	0	56110	C,CRCRI,N6RI,URI	58428.95							Norēķini par darba algu	LVL		0			0									0	0
+1	0	73111	C,CRCRI,N6RI,URI	13201.22							Sociālās iemaksas  strādnieku  algām	LVL		0			0									0	0
+1	0	73112	C,CRCRI,N6RI,URI	812.00							Sociālās iemaksas  administrācijas darba algām	LVL		0			0									0	0
+1	0	57310	C,CRCRI,N6RI,URI		14013.22						Norēķini par sociālo nodokli	LVL		0			0									0	0
+1	0	56110	C,CRCRI,N6RI,URI	1741.00							Norēķini par darba algu	LVL		0			0									0	0
+1	0	56210	C,CRCRI,N6RI,URI		4.14						Ieturējumi pēc izpildrakstiem	LVL		0			0									0	0
+1	0	99999	C,CRCRI,N6RI,URI		1736.86						Sākuma atlikuma ievadīšana 	LVL		0			0									0	0
+
+110003	10/01/2007	Dabas resursu nodoklis IV cet.	30/12/2006	DZAN	149.55	149.55	0.00		0	70	0	0	0			0.00	10/01/2007				CRCRI,N6RI,URI
+1	0	71810	C,CRCRI,N6RI,URI	149.55							Nodoklis par dabas resursu izmantošanu limits	LVL		0			0									0	0
+1	0	57710	C,CRCRI,N6RI,URI		149.55						Norēķini par dabas resursu nod. limita	LVL		0			0									0	0
+
+110004	10/01/2007	Nolietojuma korekcija	31/12/2006	DZAN	85665.34	85665.34	0.00		0	70	0	0	0			0.00	05/10/2007				CRCRI,N6RI,URI
+1	1	12920	C,CRCRI,N6RI,URI		-0.15						Tehnoloģisko iekārtu un mašīnu nolietojums	LVL		0			0									0	0
+1	0	74220	C,CRCRI,N6RI,URI	-0.15							Tehnoloģisko iekārtu nolietojums	LVL		0			0									0	0
+1	1	12930	C,CRCRI,N6RI,URI		0.01						Pārējo pamatlīdzekļu  un inventāra nolietojums	LVL		0			0									0	0
+1	0	74230	C,CRCRI,N6RI,URI	0.01							Pārējo pamatlīdzekļu nolietojums	LVL		0			0									0	0
+2	0													0			0				05/10/2007	INPR	31/12/2006			0	0
+1	0	99999	C,CRCRI,N6RI,URI	0.15							Sākuma atlikuma ievadīšana 	LVL		0			0									0	0
+2	0													0			0				05/10/2007	INPR	31/12/2006			0	0
+1	0	12330	C,CRCRI,N6RI,URI	85665.33							Pārējie pamatlīdzekļi  un inventārs	LVL		0			0									0	0
+1	0	12930	C,CRCRI,N6RI,URI		57471.49						Pārējo pamatlīdzekļu  un inventāra nolietojums	LVL		0			0									0	0
+1	0	99999	C,CRCRI,N6RI,URI		28193.85						Sākuma atlikuma ievadīšana 	LVL		0			0									0	0
+
+180017	19/02/2007	Banka 	30/12/2006	INER	1005167.68	1005167.68	0.00		0	70	0	0	0			0.00	12/05/2008				CRADM,CRCCE,N0AD,UAD
+1	0	26260	A,CRADM,N0AD,UAD	186190.68							Banka LAU Nordea LVL	LVL		0			0									0	0
+1	0	99999	A,CRADM,N0AD,UAD		186190.68						Sākuma atlikuma ievadīšana 	LVL		0			0									0	0
+1	0	26260	A,CRADM,N0AD,UAD	296784.80							Banka LAU Nordea LVL	LVL		0			0									0	0
+1	0	26261	A,CRADM,N0AD,UAD	111.01				206.94		0.536436	Banka LAU Nordea USD	USD		0			0									0	0	1
+1	0	26262	A,CRADM,N0AD,UAD	514.77							Banka LAU Parex LVL	LVL		0			0									0	0
+1	0	26263	A,CRADM,N0AD,UAD	2.37				4.17		0.569	Banka LAU Parex USD	USD		0			0									0	0	1
+1	0	26264	A,CRADM,N0AD,UAD	261.96				372.74		0.702804	Banka LAU Parex EUR	EUR		0			0									0	0	1
+1	0	26265	A,CRADM,N0AD,UAD	269467.21							Banka LAU Unibanka LVL	LVL		0			0									0	0
+1	0	26266	C,CRCCE	162108.84							Banka CRC filiāle Unibanka 	LVL		0			0									0	0
+1	0	26267	A,CRADM,N0AD,UAD	88986.16							Banka LAU Hansabanka	LVL		0			0									0	0
+1	1	99999	A,CRADM,N0AD,UAD		818237.12						Sākuma atlikuma ievadīšana 	LVL		0			0									0	0
+1	0	26411	A,CRADM,N0AD,UAD	689.88							Hansabanka karte LAU,V.Legzdiņš	LVL		0			0									0	0
+1	0	26412	A,CRADM,N0AD,UAD	50.00							Parekss banka karte LAU, V.Legzdiņš	LVL		0			0									0	0
+1	0	99999	A,CRADM,N0AD,UAD		739.88						Sākuma atlikuma ievadīšana 	LVL		0			0									0	0
+2	0													0			0				12/05/2008	INSV	30/12/2006			0	0
+1	0	99999	C,CRCCE		162108.84						Sākuma atlikuma ievadīšana 	LVL		0			0									0	0
+1	0	99999	A,CRADM,N0AD,UAD		656128.28						Sākuma atlikuma ievadīšana 	LVL		0			0									0	0
+

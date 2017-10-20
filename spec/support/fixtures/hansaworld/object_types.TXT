@@ -1,0 +1,21 @@
+format	
+1	46	1	0	0	
+
+codepage	UTF-8	
+
+commentstring	
+	
+
+ot	
+AB	Asfaltbetona un citu betonu ražošana	0	MAKL			0	
+AUT	Automašīnas	0	IP			0	
+BK	Banku kredīti	0	MAKL			0	
+CR	Ceļu rajons	0				0	
+D	Darbinieki	0	IP			0	
+DV	Darbu veidu grupa	0	MAKL			0	
+F	Filiāles	0				0	
+I	Iecirkņi	0				0	
+IK	Iekšējā kreditēšana	0	INPR			0	
+IL	Iekšējie līgumi	0	MAKL			0	
+
+

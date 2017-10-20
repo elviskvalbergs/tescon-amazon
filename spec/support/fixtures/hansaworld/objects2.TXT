@@ -1,0 +1,20 @@
+format	
+1	46	1	0	0	
+
+codepage	UTF-8	
+
+commentstring	
+	
+
+obj2	
+0774	Kravas pasažieru, Toyota Hilix	0	RT	1		
+16189	Viktors Bespalovs	0	KL	1		
+16190	Vladimirs Zagadašņikovs	0	KL	0		
+2LDA07130_PR	Vibropliete BOMAG BP 25/48	0	T	1		
+2T9999	Drupināšanas iekārta	0	T	0		
+A	LAU	0	F	0		
+A001	Skaistkalnes pagasts	0	PAG	0		
+A002	Valles pagasts	0	PAG	0		
+A003	cits	0	PAG	0		
+A004	Garkalnes pagasts	0	PAG	0		
+
