@@ -1,0 +1,21 @@
+format	
+1	46	1	0	0	
+
+codepage	UTF-8	
+
+commentstring	
+	
+
+konto4	
+11210	Licences	0	1	1		0		0			0			0		0		
+
+11211	Programmas	0	1	1		0		0			0			0		0		
+
+11810	Avansa maksājumi par nemateriāliem ieguldījumiem	0	1	1		0		0			0			0		0		
+
+11812	Avansa maks.par nemater. ieguldīj.(darījums bez PVN)	0	1	1		0		0			0			0		0		
+
+11820	Nemateriālo ieguldījumu izveidošanas izmaksas	0	1	1		0		0			0			0		0		
+
+11910	Licenču uzkrātā amortizācija	1	1	1		0		0			0			0		0		
+

@@ -4,7 +4,7 @@ class User
     self.name = name || "flexbihackathon"
     self.email = email || "flexbihackathon@gmail.com"
     self.pass = pass || "flexbihackathon"
-    self.location = location || "Latvia"
+    self.location = location || "Lithuania"
   end  
 
   attr_accessor :name, :email, :pass, :location
